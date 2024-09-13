@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422701510515",
+    "project_id": "storeapp-37369",
+    "storage_bucket": "storeapp-37369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422701510515:android:c0521c94390d4ed0b35f06",
+        "android_client_info": {
+          "package_name": "co.edu.unab.damo.jatt.storeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtr6tvpUL-_AQYzKWR8b8by78200QX-pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
